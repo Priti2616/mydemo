@@ -1,4 +1,4 @@
 # mydemo
 this is my first repo
 <br>
-Author - Priti
+Author - Priti (Apna college example)
